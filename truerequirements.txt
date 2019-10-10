@@ -1,0 +1,15 @@
+keras
+tensorflow
+Pillow
+theano
+torch
+torchvision
+seaborn
+scipy
+numpy
+requests
+h5py
+pandas
+opencv-python
+scikit-learn
+jupyter
